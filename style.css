@@ -1,4 +1,10 @@
 /* main styles */
+ul{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
 .main{
  display:flex;
  flex-direction: row-reverse;
