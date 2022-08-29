@@ -29,7 +29,7 @@ a{
 }
 h1{
     font-weight: 700;
-    font-size: 45px;
+    font-size: 40px;
     line-height: 55px;
     margin: 0;
 }
@@ -199,6 +199,7 @@ img{
     line-height: 1.71;
     color: #FFFFFF;
     opacity: 0.5;
+    padding-left: 10px;
 }
 .sidebar-list{
     text-decoration: none;
